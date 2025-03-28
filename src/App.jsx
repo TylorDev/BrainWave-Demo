@@ -11,7 +11,7 @@ import Services from "./components/Services";
 const App = () => {
   return (
     <>
-      <div className="pt-[4.75rem] lg:pt-[5.25rem] overflow-hidden">
+      <div className="AppRoot">
         <Header />
         <Hero />
         <Benefits />
